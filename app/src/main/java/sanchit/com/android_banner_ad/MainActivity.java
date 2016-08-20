@@ -1,6 +1,5 @@
 package sanchit.com.android_banner_ad;
 
-
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import com.google.android.gms.ads.AdRequest;
